@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 354 directory/
+chmod a+X*
